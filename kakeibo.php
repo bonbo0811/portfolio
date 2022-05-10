@@ -22,7 +22,7 @@
                     </li>
                     <li>
                         <h3>家計簿アプリ</h3>
-                        <span class ="workpage">HTML / CSS /PHP / Laravel /MySQL</span>
+                        <span class ="workpage color-blue">HTML / CSS /PHP / Laravel /MySQL</span>
                         <div class="link justify-content-left workpage">
                             <a href="#">Webサイト</a>
                             <a href="#">GitHub</a>

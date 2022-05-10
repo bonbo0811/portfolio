@@ -22,7 +22,7 @@
                     </li>
                     <li>
                         <h3>講演会予約サイト</h3>
-                        <span class ="workpage">HTML / CSS / PHP / Laravel / MySQL</span>
+                        <span class ="workpage color-blue">HTML / CSS / PHP / Laravel / MySQL</span>
                         <div class="link justify-content-left workpage">
                             <a href="https://www.seminarreserve.shop/" target="_blank" rel="noopener noreferrer">Webサイト</a>
                             <a href="#">GitHub</a>
