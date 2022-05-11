@@ -18,7 +18,7 @@
             </h2>
                 <ul class="works-list">
                     <li>
-                    <img src="./images/work_1.png" alt="TwitterCloneの画像">
+                    <img src="./images/Work-Out.png" alt="Work-Outの画像">
                     </li>
                     <li>
                         <h3>Work-Out</h3>

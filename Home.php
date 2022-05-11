@@ -66,7 +66,7 @@
                     </li>
 
                     <li class="three">
-                        <a href="Work-Out.php"><img src="./images/work_1.png" alt="TwitterCloneの画像"></a>
+                        <a href="Work-Out.php"><img src="./images/Work-Out.png" alt="Work-Outの画像"></a>
                         <h3>Work-Out</h3>
                         <span class="color-blue">HTML / CSS /PHP / Laravel / MySQL</span>
                         <div class="link justify-content-left mb-2">
