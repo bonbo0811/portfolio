@@ -25,7 +25,6 @@
                         <span class ="workpage color-blue">HTML / CSS / PHP / Laravel / MySQL</span>
                         <div class="link justify-content-left workpage">
                             <a href="https://www.seminarreserve.shop/" target="_blank" rel="noopener noreferrer">Webサイト</a>
-                            <a href="#">GitHub</a>
                         </div> 
                         <p class="workpage">
                             複数名のグループで作成した講演会の予約サイトです。<br>
