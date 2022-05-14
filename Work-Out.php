@@ -18,20 +18,20 @@
             </h2>
                 <ul class="works-list">
                     <li>
-                    <img src="./images/work_1.png" alt="TwitterCloneの画像">
+                    <img src="./images/Work-Out.png" alt="Work-Outの画像">
                     </li>
                     <li>
-                        <h3>Twitteクローン</h3>
-                        <span class ="workpage color-blue">HTML / CSS /PHP / MySQL</span>
+                        <h3>Work-Out</h3>
+                        <span class ="workpage color-blue">HTML / CSS /PHP / Laravel / MySQL</span>
                         <div class="link justify-content-left workpage">
-                            <a href="https://techkento.com/TwitterClone/Controllers/sign-in.php" target="_blank" rel="noopener noreferrer">Webサイト</a>
-                            <a href="https://github.com/bonbo0811/TwitterClone" target="_blank" rel="noopener noreferrer">GitHub</a>
+                            <a href=" " target="_blank" rel="noopener noreferrer">Webサイト</a>
+                            <a href="https://github.com/bonbo0811/Work-Out" target="_blank" rel="noopener noreferrer">GitHub</a>
                         </div> 
                         <p class="workpage">
-                            Twitterのクローンです。<br>
+                            ログインユーザーでプロジェクト単位のToDoを管理できるWebアプリケーションです。<br><br>
                             ユーザー作成、ログイン機能、投稿機能、投稿、ユーザーまたは投稿の検索が行えます。<br><br>
                             サーバーはさくらのVPS、ドメインはお名前ドットコムを利用しました。<br><br>
-                            SSL済み。
+                            SSL済みです。
                         </p>                  
                     </li>
 
