@@ -24,8 +24,8 @@
                         <h3>Work-Out</h3>
                         <span class ="workpage color-blue">HTML / CSS /PHP / Laravel / MySQL</span>
                         <div class="link justify-content-left workpage">
-                            <a href=" " target="_blank" rel="noopener noreferrer">Webサイト</a>
-                            <a href="https://github.com/bonbo0811/Work-Out" target="_blank" rel="noopener noreferrer">GitHub</a>
+                            <a class="btn btn-outline-secondary" href=" " target="_blank" rel="noopener noreferrer">Webサイト</a>
+                            <a class="btn btn-outline-secondary" href="https://github.com/bonbo0811/Work-Out" target="_blank" rel="noopener noreferrer">GitHub</a>
                         </div> 
                         <p class="workpage">
                             ログインユーザーでプロジェクト単位のToDoを管理できるWebアプリケーションです。<br><br>

@@ -50,8 +50,8 @@
                         <h3>Twitteクローン</h3>
                         <span class="color-blue">HTML / CSS /PHP / MySQL</span>
                         <div class="link justify-content-left mb-2">
-                            <a href="https://techkento.com/TwitterClone/Controllers/sign-in.php" target="_blank" rel="noopener noreferrer">Webサイト</a>
-                            <a href="https://github.com/bonbo0811/TwitterClone" target="_blank" rel="noopener noreferrer">GitHub</a>
+                            <a class="btn btn-outline-secondary" href="https://techkento.com/TwitterClone/Controllers/sign-in.php" target="_blank" rel="noopener noreferrer">Webサイト</a>
+                            <a class="btn btn-outline-secondary" href="https://github.com/bonbo0811/TwitterClone" target="_blank" rel="noopener noreferrer">GitHub</a>
                         </div>
                     </li>
 
@@ -60,8 +60,8 @@
                         <h3>家計簿アプリ</h3>
                         <span class="color-blue">HTML / CSS /PHP / Laravel / MySQL</span>
                         <div class="link justify-content-left mb-2">
-                            <a href="#" target="_blank" rel="noopener noreferrer">Webサイト</a>
-                            <a href="https://github.com/bonbo0811/kakeibo" target="_blank" rel="noopener noreferrer">GitHub</a>
+                            <a class="btn btn-outline-secondary" href="#" target="_blank" rel="noopener noreferrer">Webサイト</a>
+                            <a class="btn btn-outline-secondary" href="https://github.com/bonbo0811/kakeibo" target="_blank" rel="noopener noreferrer">GitHub</a>
                         </div>
                     </li>
 
@@ -70,8 +70,8 @@
                         <h3>Work-Out</h3>
                         <span class="color-blue">HTML / CSS /PHP / Laravel / MySQL</span>
                         <div class="link justify-content-left mb-2">
-                            <a href="#" target="_blank" rel="noopener noreferrer">Webサイト</a>
-                            <a href="https://github.com/bonbo0811/Work-Out" target="_blank" rel="noopener noreferrer">GitHub</a>
+                            <a class="btn btn-outline-secondary" href="#" target="_blank" rel="noopener noreferrer">Webサイト</a>
+                            <a class="btn btn-outline-secondary" href="https://github.com/bonbo0811/Work-Out" target="_blank" rel="noopener noreferrer">GitHub</a>
                         </div>
                     </li>
 
@@ -80,7 +80,7 @@
                         <h3>講演会予約サイト</h3>
                         <span class="color-blue">HTML / CSS / PHP/ Laravel / MySQL</span>
                         <div class="link justify-content-left mb-2">
-                            <a href="https://www.seminarreserve.shop/" target="_blank" rel="noopener noreferrer">Webサイト</a>
+                            <a class="btn btn-outline-secondary" href="https://www.seminarreserve.shop/" target="_blank" rel="noopener noreferrer">Webサイト</a>
                         </div>
                     </li>
                 </ul>
