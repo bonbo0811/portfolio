@@ -133,11 +133,11 @@ height: 348px;}
 flex-direction: row;}
 
 .works-list .link a {
-    background-color: rgb(226,226,226);
-    padding: 5px 20px;
+    
+    
     margin-right: 10px;
-    text-decoration: none;
-    color: black;
+    
+    
 }
 
 .works-list li .workpage {

@@ -24,8 +24,8 @@
                         <h3>家計簿アプリ</h3>
                         <span class ="workpage color-blue">HTML / CSS /PHP / Laravel /MySQL</span>
                         <div class="link justify-content-left workpage">
-                            <a href="#">Webサイト</a>
-                            <a href="https://github.com/bonbo0811/kakeibo">GitHub</a>
+                            <a class="btn btn-outline-secondary" href="#">Webサイト</a>
+                            <a class="btn btn-outline-secondary" href="https://github.com/bonbo0811/kakeibo">GitHub</a>
                         </div> 
                         <p class="workpage">
                             １カ月単位で出費を確認できるオリジナルの家計簿アプリです。<br><br>
