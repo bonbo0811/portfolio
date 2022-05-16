@@ -20,9 +20,9 @@
                         <img src="./images/MyProfile.jpg" alt="プロフィール画像">
                         <b>大久保 賢人</b>
                         <p class="color-blue">HTML / CSS / PHP / MySQL /Laravel /Adobe XD / WordPress</p>
-                        <p>2021年9月よりプログラミングを開始。<br>
+                        <p>2021年9月よりプログラミングを開始。主にWebサイトの作成、バックエンド処理を得意としています。<br>
                             ワードプレスによるブログの開設経験があり、サーバー環境の設計も経験済みです。<br><br>
-                            前職ではサービス業。クライアントの理想を引き出す事を第一にしています。
+                            前職ではサービス業。依頼者の希望に沿う事を重視します。
                         </p>
                     </div>
                     <ul class="icon-list justify-content-center">
@@ -31,9 +31,6 @@
                         </li>
                         <li>
                             <a href="https://twitter.com/WD_PG_okubo" target="_blank" rel="noopener noreferrer"><img src="./images/twitter.png" alt="Twitterのアイコン" class="rounded"></a>
-                        </li>
-                        <li>
-                            <a href=""><img src="./images/instagram.png" alt="instagramのアイコン"></a>
                         </li>
                     </ul>
                 </div>

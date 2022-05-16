@@ -48,8 +48,8 @@ body {
 
 .item-list img {
     width: 60%;
-    border-radius: 50%;
-    margin : 0;
+    /* border-radius: 50%; */
+    width: 100%;margin : 0;
 }
 
 .item-list b {
