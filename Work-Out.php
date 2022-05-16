@@ -28,10 +28,10 @@
                             <a class="btn btn-outline-secondary" href="https://github.com/bonbo0811/Work-Out" target="_blank" rel="noopener noreferrer">GitHub</a>
                         </div> 
                         <p class="workpage">
-                            ログインユーザーでプロジェクト単位のToDoを管理できるWebアプリケーションです。<br><br>
-                            ユーザー作成、ログイン機能、投稿機能、投稿、ユーザーまたは投稿の検索が行えます。<br><br>
-                            サーバーはさくらのVPS、ドメインはお名前ドットコムを利用しました。<br><br>
-                            SSL済みです。
+                            ログインユーザーごとにプロジェクト単位のToDoを管理できるWebアプリケーションです。<br><br>
+                            チームでの作業にも対応するため、プロジェクトやToDoに担当メンバーを割り当てる機能が付いています。<br><br>
+                            現在はまだ未公開です。<br><br>
+                            
                         </p>                  
                     </li>
 
