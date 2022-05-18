@@ -22,7 +22,8 @@
                     </li>
                     <li>
                         <h3>講演会予約サイト</h3>
-                        <span class ="workpage color-blue">HTML / CSS / PHP / Laravel / MySQL</span>
+                        <span class ="workpage color-blue">HTML / CSS / PHP / Laravel / MySQL</span><br>
+                        <span class ="workpage color-blue">XREA / SSL済み</span>
                         <div class="link justify-content-left workpage">
                             <a class="btn btn-outline-secondary" href="https://www.seminarreserve.shop/" target="_blank" rel="noopener noreferrer">Webサイト</a>
                         </div> 
