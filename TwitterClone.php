@@ -22,16 +22,15 @@
                     </li>
                     <li>
                         <h3>Twitteクローン</h3>
-                        <span class ="workpage color-blue">HTML / CSS /PHP / MySQL</span>
+                        <span class ="workpage color-blue">HTML / CSS /PHP / MySQL</span><br>
+                        <span class ="workpage color-blue">さくらのVPS / SSL済み</span>
                         <div class="link justify-content-left workpage">
                             <a class="btn btn-outline-secondary" href="https://techkento.com/TwitterClone/Controllers/sign-in.php" target="_blank" rel="noopener noreferrer">Webサイト</a>
                             <a class="btn btn-outline-secondary" href="https://github.com/bonbo0811/TwitterClone" target="_blank" rel="noopener noreferrer">GitHub</a>
                         </div> 
                         <p class="workpage">
                             Twitterのクローンです。<br>
-                            ユーザー作成、ログイン機能、投稿機能、投稿、ユーザーまたは投稿の検索が行えます。<br><br>
-                            サーバーはさくらのVPS、ドメインはお名前ドットコムを利用しました。<br><br>
-                            SSL済み。
+                            ユーザー作成、ログイン機能、投稿機能、投稿、画像のアップロード機能、ユーザーまたは投稿の検索が行えます。<br><br>
                         </p>                  
                     </li>
 
