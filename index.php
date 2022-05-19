@@ -57,7 +57,7 @@
                         <h3>家計簿アプリ</h3>
                         <span class="color-blue">HTML / CSS /PHP / Laravel / MySQL</span>
                         <div class="link justify-content-left mb-2">
-                            <a class="btn btn-outline-secondary" href="#" target="_blank" rel="noopener noreferrer">Webサイト</a>
+                            <a class="btn btn-outline-secondary" href="https://kakeibo.shop/" target="_blank" rel="noopener noreferrer">Webサイト</a>
                             <a class="btn btn-outline-secondary" href="https://github.com/bonbo0811/kakeibo" target="_blank" rel="noopener noreferrer">GitHub</a>
                         </div>
                     </li>
