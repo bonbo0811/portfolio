@@ -67,7 +67,7 @@
                         <h3>Work-Out</h3>
                         <span class="color-blue">HTML / CSS /PHP / Laravel / MySQL</span>
                         <div class="link justify-content-left mb-2">
-                            <a class="btn btn-outline-secondary" href="#" target="_blank" rel="noopener noreferrer">Webサイト</a>
+                            <a class="btn btn-outline-secondary" href="http://13.115.77.9/" target="_blank" rel="noopener noreferrer">Webサイト</a>
                             <a class="btn btn-outline-secondary" href="https://github.com/bonbo0811/Work-Out" target="_blank" rel="noopener noreferrer">GitHub</a>
                         </div>
                     </li>
