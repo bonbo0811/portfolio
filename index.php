@@ -80,6 +80,16 @@
                             <a class="btn btn-outline-secondary" href="https://www.seminarreserve.shop/" target="_blank" rel="noopener noreferrer">Webサイト</a>
                         </div>
                     </li>
+
+                    <li>
+                        <a href="JavaScript-Quiz.php"><img src="./images/JavaScript-Quiz.png" alt="講演会予約サイトの画像"></a>
+                        <h3>JavaScript-Quiz</h3>
+                        <span class="color-blue">HTML / CSS / PHP/ JavaScript</span>
+                        <div class="link justify-content-left mb-2">
+                            <a class="btn btn-outline-secondary" href=" " target="_blank" rel="noopener noreferrer">サイト準備中</a>
+                            <a class="btn btn-outline-secondary" href="https://github.com/bonbo0811/JavaScript-Quiz" target="_blank" rel="noopener noreferrer">GitHub</a>
+                        </div>
+                    </li>
                 </ul>
             </div>
 
