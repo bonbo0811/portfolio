@@ -23,9 +23,10 @@
                     <li>
                         <h3>JavaScript-Quiz</h3>
                         <span class ="workpage color-blue">HTML / CSS / PHP/ JavaScript</span><br>
+                        <span class ="workpage color-blue">サーバー / Heroku </span>
                         <!-- <span class ="workpage color-blue">AWS / Lightsail </span> -->
                         <div class="link justify-content-left workpage">
-                            <a class="btn btn-outline-secondary" href="" target="_blank" rel="noopener noreferrer">サイト準備中</a>
+                            <a class="btn btn-outline-secondary" href="https://jp-javascript-quiz.herokuapp.com/" target="_blank" rel="noopener noreferrer">Webサイト</a>
                             <a class="btn btn-outline-secondary" href="https://github.com/bonbo0811/JavaScript-Quiz" target="_blank" rel="noopener noreferrer">GitHub</a>
                         </div> 
                         <p class="workpage">
