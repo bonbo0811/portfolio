@@ -25,6 +25,9 @@
                             前職ではサービス業。依頼者の希望に沿う事を重視します。
                         </p>
                     </div>
+                    <div class="link justify-content-center mb-2">
+                        <a class="btn btn-outline-secondary" href="profile.php" >詳細プロフィール</a>
+                    </div>
                     <ul class="icon-list justify-content-center">
                         <li>
                             <a href="https://github.com/bonbo0811" target="_blank" rel="noopener noreferrer"><img src="./images/github.png" alt="GitHubのアイコン"></a>
@@ -42,6 +45,9 @@
                 </h2>
 
                 <ul class="works-list">
+                    <div class="link justify-content-center mb-2">
+                        <a class="btn btn-outline-secondary" href="profile.php" >制作実績</a>
+                    </div>
                     <li>
                         <a href="TwitterClone.php"><img src="./images/work_1.png" alt="TwitterCloneの画像"></a>
                         <h3>Twitteクローン</h3>
