@@ -19,7 +19,7 @@
                     <div class="item-list mt-4">
                         <img src="./images/MyProfile.jpg" alt="プロフィール画像">
                         <b>大久保 賢人</b>
-                        <p class="color-blue">HTML / CSS / PHP / MySQL /Laravel /Adobe XD / WordPress</p>
+                        <p class="color-blue">HTML / CSS / PHP / JavaScript / MySQL /Laravel / AWS /Adobe XD / WordPress</p>
                         <p>2021年9月よりプログラミングを開始。主にWebサイトの作成、バックエンド処理を得意としています。<br>
                             ワードプレスによるブログの開設経験があり、サーバー環境の設計も経験済みです。<br><br>
                             前職ではサービス業。依頼者の希望に沿う事を重視します。

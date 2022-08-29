@@ -33,8 +33,12 @@ body {
     font-family: fantasy;
 }
 
+.block-header a:hover {
+    color: #000;
+}
+
 .block-header .navbar-nav a {
-    font-size: 20px;
+    font-size: 16px;
     color: #000;
     text-decoration: none;
     letter-spacing: 2px;

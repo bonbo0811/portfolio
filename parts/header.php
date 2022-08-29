@@ -8,9 +8,9 @@
     </button>
     <div class="collapse navbar-collapse ms-5" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-            <a class="nav-link active" aria-current="page" href="profile.php">Profile</a>
+            <a class="nav-link" aria-current="page" href="profile.php">About</a>
             <a class="nav-link" href="#">Works</a>
-            <a class="nav-link" href="#">Request</a>
+            <a class="nav-link" href="#">Contact</a>
         </div>
     </div>
 </nav>
