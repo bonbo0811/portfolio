@@ -19,11 +19,14 @@
                     <div class="item-list mt-4">
                         <img src="./images/MyProfile.jpg" alt="プロフィール画像">
                         <b>大久保 賢人</b>
-                        <p class="color-blue">HTML / CSS / PHP / MySQL /Laravel /Adobe XD / WordPress</p>
+                        <p class="color-blue">HTML / CSS / PHP / JavaScript / MySQL /Laravel / AWS /Adobe XD / WordPress</p>
                         <p>2021年9月よりプログラミングを開始。主にWebサイトの作成、バックエンド処理を得意としています。<br>
                             ワードプレスによるブログの開設経験があり、サーバー環境の設計も経験済みです。<br><br>
                             前職ではサービス業。依頼者の希望に沿う事を重視します。
                         </p>
+                    </div>
+                    <div class="link justify-content-center mb-2">
+                        <a class="btn btn-outline-secondary" href="profile.php" >詳細プロフィール</a>
                     </div>
                     <ul class="icon-list justify-content-center">
                         <li>
@@ -42,6 +45,9 @@
                 </h2>
 
                 <ul class="works-list">
+                    <div class="link justify-content-center mb-2">
+                        <a class="btn btn-outline-secondary" href="profile.php" >制作実績</a>
+                    </div>
                     <li>
                         <a href="TwitterClone.php"><img src="./images/work_1.png" alt="TwitterCloneの画像"></a>
                         <h3>Twitteクローン</h3>

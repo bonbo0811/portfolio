@@ -33,6 +33,17 @@ body {
     font-family: fantasy;
 }
 
+.block-header a:hover {
+    color: #000;
+}
+
+.block-header .navbar-nav a {
+    font-size: 16px;
+    color: #000;
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-family:'Yu Gothic';
+}
 
 
 /* メインのCSS */
@@ -133,11 +144,7 @@ height: 348px;}
 flex-direction: row;}
 
 .works-list .link a {
-    
-    
     margin-right: 10px;
-    
-    
 }
 
 .works-list li .workpage {
