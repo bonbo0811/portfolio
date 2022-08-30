@@ -14,7 +14,7 @@
             <div class="block-main text-center" >
                 <div class="box-profile">
                     <h2 class="sub-title mb-3">
-                        << <span class="color-blue">P</span>rofile >>
+                        - <span class="color-blue">P</span>rofile -
                     </h2>
                     <div class="item-list mt-4">
                         <img src="./images/MyProfile.jpg" alt="プロフィール画像">
@@ -41,12 +41,12 @@
 
             <div class="box-works">
                 <h2 class="sub-title mb-3">
-                    << <span class="color-blue">W</span>orks >>
+                    - <span class="color-blue">W</span>orks -
                 </h2>
 
                 <ul class="works-list">
                     <div class="link justify-content-center mb-2">
-                        <a class="btn btn-outline-secondary" href="profile.php" >制作実績</a>
+                        <a class="btn btn-outline-secondary" href="" >制作実績</a>
                     </div>
                     <li>
                         <a href="TwitterClone.php"><img src="./images/work_1.png" alt="TwitterCloneの画像"></a>
