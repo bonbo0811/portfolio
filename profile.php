@@ -14,7 +14,7 @@
             <div class="block-main text-center" >
                 <div class="box-profile">
                     <h2 class="sub-title mb-3">
-                        << <span class="color-blue">A</span>bout >>
+                        - <span class="color-blue">A</span>bout -
                     </h2>
                     <div class="item-list mt-4">
                         <p class="mb-3">愛知県在住プログラマーの大久保賢人です。<br><br>
@@ -38,7 +38,7 @@
                     </table>
 
                     <h2 class="sub-title mt-4 mb-3">
-                        << <span class="color-blue">S</span>NS >>
+                        - <span class="color-blue">S</span>NS -
                     </h2>
 
                     <ul class="icon-list justify-content-center">
