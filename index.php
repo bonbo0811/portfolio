@@ -46,7 +46,7 @@
 
                 <ul class="works-list">
                     <div class="link justify-content-center mb-2">
-                        <a class="btn btn-outline-secondary" href="" >制作実績</a>
+                        <a class="btn btn-outline-secondary" href="Works.php" >制作実績</a>
                     </div>
                     <li>
                         <a href="TwitterClone.php"><img src="./images/work_1.png" alt="TwitterCloneの画像"></a>
