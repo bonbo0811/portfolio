@@ -24,116 +24,89 @@
             <a href="" class="tab-nav-item" data-nav="2">ブログ</a>
         </div>
 
-        <div class="quiz-list list-group col-md-7 mt-4 m-auto px-3">
-            <span class="list-group-item list-group-item-action active list-img bg-primary" aria-current="true">
-                クイズ一覧
-            </span>
-
-            <!-- エンタメクイズ -->
+            <!-- Webアプリ-->
             <div class="tab-contents-item" data-content="0">
-                <a href="quiz-fashions.php" class="list-group-item list-group-item-action">
-                    <img src="images/fashion_image.jpeg" alt="アイコン" width="25" height="25" class="d-inline-block align-text-top ms-2">
-                    ファッション
-                </a>
-                <a href="quiz-games.php" class="list-group-item list-group-item-action ">
-                    <img src="images/game_image.jpeg" alt="アイコン" width="25" height="25" class="d-inline-block align-text-top ms-2">
-                    ゲーム
-                </a>
-                <a href="quiz-movies.php" class="list-group-item list-group-item-action">
-                    <img src="images/movie_image.jpeg" alt="アイコン" width="25" height="25" class="d-inline-block align-text-top ms-2">
-                    映画
-                </a>
-                <a href="quiz-comics.php" class="list-group-item list-group-item-action">
-                    <img src="images/comic_image.jpeg" alt="アイコン" width="25" height="25" class="d-inline-block align-text-top ms-2">
-                    マンガ
-                </a>
-                <a href="quiz-foods.php" class="list-group-item list-group-item-action">
-                    <img src="images/food_image.jpeg" alt="アイコン" width="25" height="25" class="d-inline-block align-text-top ms-2">
-                    食べ物
-                </a>
+                <div class="box-works py-0">
+
+                    <ul class="works-list">
+                        <li>
+                            <a href="TwitterClone.php"><img src="./images/work_1.png" alt="TwitterCloneの画像"></a>
+                            <h3>Twitteクローン</h3>
+                            <span class="color-blue">HTML / CSS /PHP / MySQL</span>
+                            <div class="link justify-content-left mb-2">
+                                <a class="btn btn-outline-secondary" href="https://techkento.com/TwitterClone/Controllers/sign-in.php" target="_blank" rel="noopener noreferrer">Webサイト</a>
+                                <a class="btn btn-outline-secondary" href="https://github.com/bonbo0811/TwitterClone" target="_blank" rel="noopener noreferrer">GitHub</a>
+                            </div>
+                        </li>
+
+                        <li>
+                            <a href="kakeibo.php"><img class="pix" src="./images/kakeibo.png" alt="家計簿の画像"></a>
+                            <h3>家計簿アプリ</h3>
+                            <span class="color-blue">HTML / CSS /PHP / Laravel / MySQL</span>
+                            <div class="link justify-content-left mb-2">
+                                <a class="btn btn-outline-secondary" href="https://kakeibo.shop/" target="_blank" rel="noopener noreferrer">Webサイト</a>
+                                <a class="btn btn-outline-secondary" href="https://github.com/bonbo0811/kakeibo" target="_blank" rel="noopener noreferrer">GitHub</a>
+                            </div>
+                        </li>
+
+                        <li class="three">
+                            <a href="Work-Out.php"><img src="./images/Work-Out.png" alt="Work-Outの画像"></a>
+                            <h3>Work-Out</h3>
+                            <span class="color-blue">HTML / CSS /PHP / Laravel / MySQL</span>
+                            <div class="link justify-content-left mb-2">
+                                <a class="btn btn-outline-secondary" href="http://13.115.77.9/" target="_blank" rel="noopener noreferrer">Webサイト</a>
+                                <a class="btn btn-outline-secondary" href="https://github.com/bonbo0811/Work-Out" target="_blank" rel="noopener noreferrer">GitHub</a>
+                            </div>
+                        </li>
+
+                        <li>
+                            <a href="koen-yoyaku.php"><img src="./images/講演会予約サイト.png" alt="講演会予約サイトの画像"></a>
+                            <h3>講演会予約サイト</h3>
+                            <span class="color-blue">HTML / CSS / PHP/ Laravel / MySQL</span>
+                            <div class="link justify-content-left mb-2">
+                                <a class="btn btn-outline-secondary" href="https://www.seminarreserve.shop/" target="_blank" rel="noopener noreferrer">Webサイト</a>
+                            </div>
+                        </li>
+
+                        <li>
+                            <a href="JavaScript-Quiz.php"><img src="./images/JavaScript-Quiz.png" alt="講演会予約サイトの画像"></a>
+                            <h3>JavaScript-Quiz</h3>
+                            <span class="color-blue">HTML / CSS / PHP/ JavaScript</span>
+                            <div class="link justify-content-left mb-2">
+                                <a class="btn btn-outline-secondary" href="https://jp-javascript-quiz.herokuapp.com/" target="_blank" rel="noopener noreferrer">Webサイト</a>
+                                <a class="btn btn-outline-secondary" href="https://github.com/bonbo0811/JavaScript-Quiz" target="_blank" rel="noopener noreferrer">GitHub</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
             </div>
 
-            <!-- 勉強クイズ -->
+            <!-- ホームページ -->
             <div class="tab-contents-item" data-content="1">
-                <a href="quiz-englishwords.php" class="list-group-item list-group-item-action">
-                    <img src="images/englishword.jpeg" alt="アイコン" width="25" height="25" class="d-inline-block align-text-top ms-2">
-                    英単語
-                </a>
-                <a href="quiz-kotowaza.php" class="list-group-item list-group-item-action">
-                    <img src="images/kotowaza.jpeg" alt="アイコン" width="25" height="25" class="d-inline-block align-text-top ms-2">
-                    ことわざ
-                </a>
-                <a href="quiz-kanji.php" class="list-group-item list-group-item-action">
-                    <img src="images/kanji.jpeg" alt="アイコン" width="25" height="25" class="d-inline-block align-text-top ms-2">
-                    漢字
-                </a>
-                <a href="quiz-sciences.php" class="list-group-item list-group-item-action">
-                    <img src="images/science.jpeg" alt="アイコン" width="25" height="25" class="d-inline-block align-text-top ms-2">
-                    理科
-                </a>
-                <a href="quiz-maths.php" class="list-group-item list-group-item-action">
-                    <img src="images/math.jpeg" alt="アイコン" width="25" height="25" class="d-inline-block align-text-top ms-2">
-                    数学
-                </a>
+                
             </div>
 
-            <!-- 教養クイズ -->
+            <!-- ブログ -->
             <div class="tab-contents-item" data-content="2">
-                <a href="quiz-manners.php" class="list-group-item list-group-item-action">
-                    <img src="images/manner.jpeg" alt="アイコン" width="25" height="25" class="d-inline-block align-text-top ms-2">
-                    一般マナー
-                </a>
-                <a href="quiz-estate.php" class="list-group-item list-group-item-action">
-                    <img src="images/estate.jpeg" alt="アイコン" width="25" height="25" class="d-inline-block align-text-top ms-2">
-                    不動産
-                </a>
-                <a href="quiz-inventment.php" class="list-group-item list-group-item-action">
-                    <img src="images/inventment.jpeg" alt="アイコン" width="25" height="25" class="d-inline-block align-text-top ms-2">
-                    投資
-                </a>
+                <div class="box-works py-0">
+
+                    <ul class="works-list">
+                        <li>
+                            <a href="syogaku_toshi.php"><img src="./images/syogaku_toshi.png" alt="無理なく始める少額投資の画像"></a>
+                            <h3>無理なく始める少額投資</h3>
+                            <span class="color-blue">ワードプレス / お名前.com / SSL済み</span>
+                            <div class="link justify-content-left mb-2">
+                                <a class="btn btn-outline-secondary" href="https://www.goodlifelabo.net/" target="_blank" rel="noopener noreferrer">Webサイト</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
             </div>
         </div>
     </div>
-
-            <!-- <div class="block-main text-center" >
-                <div class="box-profile" id="js-tab">
-                    <h2 class="sub-title mb-4">
-                        - <span class="color-blue">W</span>orks -
-                    </h2>
-                    <div class="tab-nav text-center mt-3">
-                        <a href="" class="tab-nav-item is-active" data-nav="0">Webアプリ</a>
-                        <a href="" class="tab-nav-item" data-nav="1">ホームページ</a>
-                        <a href="" class="tab-nav-item" data-nav="2">ブログ</a>
-                    </div>
-                </div>
-            </div>
-
-            <div class="quiz-list list-group col-md-7 mt-4 m-auto px-3">
-                <span class="list-group-item list-group-item-action active list-img bg-primary" aria-current="true">
-                    一覧
-                </span>
-
-                <!-- Webアプリ -->
-                <div class="tab-contents-item" data-content="0">
-                <a href="" class="list-group-item list-group-item-action">
-                    Webアプリ
-                </a>
-                </div>
-
-                <!-- ホームページ -->
-                <div class="tab-contents-item" data-content="1">
-                
-                </div>
-
-                <!-- ブログ -->
-                <div class="tab-contents-item" data-content="2">
-                
-                </div>
-            </div>
         <?php 
             include_once('./parts/footer.php');
         ?>
-    </div> -->
     <script type="text/javascript" src="./JavaScript/tab.js"></script>
     </body>
 </html>

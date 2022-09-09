@@ -14,7 +14,7 @@
     <div class="block-main text-center">
         <div class="box-works">
             <h2 class="sub-title mb-3">
-               - <span class="color-blue">W</span>orks -
+                - <span class="color-blue">W</span>orks -
             </h2>
                 <ul class="works-list">
                     <li>
