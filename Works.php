@@ -7,22 +7,22 @@
 
     <div class="container">
 
-    <?php 
-        include_once('./parts/header.php');
-    ?>
+        <?php 
+            include_once('./parts/header.php');
+        ?>
 
-    <div class="col-md-7 text-center mt-5 m-auto">
-        <h2 class="sub-title mb-4">
-            - <span class="color-blue">W</span>orks -
-        </h2>
-    </div>
-
-    <div class="tab" id="js-tab">
-        <div class="tab-nav text-center">
-            <a href="" class="tab-nav-item is-active" data-nav="0">Webアプリ</a>
-            <a href="" class="tab-nav-item" data-nav="1">ホームページ</a>
-            <a href="" class="tab-nav-item" data-nav="2">ブログ</a>
+        <div class="col-md-7 text-center mt-5 m-auto">
+            <h2 class="sub-title mb-4">
+                - <span class="color-blue">W</span>orks -
+            </h2>
         </div>
+
+        <div class="tab" id="js-tab">
+            <div class="tab-nav text-center">
+                <a href="" class="tab-nav-item is-active" data-nav="0">Webアプリ</a>
+                <a href="" class="tab-nav-item" data-nav="1">ホームページ</a>
+                <a href="" class="tab-nav-item" data-nav="2">ブログ</a>
+            </div>
 
             <!-- Webアプリ-->
             <div class="tab-contents-item" data-content="0">
@@ -83,7 +83,9 @@
 
             <!-- ホームページ -->
             <div class="tab-contents-item" data-content="1">
-                
+                <div class="box-works py-0">
+                    
+                </div>
             </div>
 
             <!-- ブログ -->
@@ -103,10 +105,17 @@
                 </div>
             </div>
         </div>
-    </div>
+
         <?php 
-            include_once('./parts/footer.php');
+        include_once('./parts/footer.php');
         ?>
-    <script type="text/javascript" src="./JavaScript/tab.js"></script>
-    </body>
+
+        <!-- TOPへ戻る -->
+        <a href="#" id="page-top">TOP</a>
+
+    </div>
+
+<script type="text/javascript" src="./JavaScript/tab.js"></script>
+</body>
+
 </html>

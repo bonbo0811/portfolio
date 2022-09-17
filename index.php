@@ -7,10 +7,12 @@
 
     <div class="container">
 
-    <?php 
-        include_once('./parts/header.php');
-    ?>
+        <!-- ヘッダーメニュー -->
+        <?php 
+            include_once('./parts/header.php');
+        ?>
 
+            <!-- プロフィールの紹介 -->
             <div class="block-main text-center" >
                 <div class="box-profile">
                     <h2 class="sub-title mb-3">
@@ -39,6 +41,7 @@
                 </div>
             </div>
 
+            <!-- ワークスの紹介 -->
             <div class="box-works">
                 <h2 class="sub-title mb-3">
                     - <span class="color-blue">W</span>orks -
@@ -99,10 +102,14 @@
                 </ul>
             </div>
 
-            <?php 
-                include_once('./parts/footer.php');
-            ?>
-        
+        <!-- フッダーメニュー -->
+        <?php 
+            include_once('./parts/footer.php');
+        ?>
+
+        <!-- TOPへ戻る -->
+        <a href="#" id="page-top">TOP</a>
+
     </div>
         
     </body>
