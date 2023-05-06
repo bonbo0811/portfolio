@@ -108,7 +108,9 @@
         ?>
 
         <!-- TOPへ戻る -->
-        <a href="#" id="page-top">TOP</a>
+        <?php 
+            include_once('./parts/page_top.php');
+        ?>
 
     </div>
         

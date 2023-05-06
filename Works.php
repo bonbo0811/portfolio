@@ -21,7 +21,7 @@
             <div class="tab-nav text-center">
                 <a href="" class="tab-nav-item is-active" data-nav="0">Webアプリ</a>
                 <a href="" class="tab-nav-item" data-nav="1">ホームページ</a>
-                <a href="" class="tab-nav-item" data-nav="2">ブログ</a>
+                <a href="" class="tab-nav-item tab-nav-item-blog" data-nav="2">ブログ</a>
             </div>
 
             <!-- Webアプリ-->
@@ -111,7 +111,9 @@
         ?>
 
         <!-- TOPへ戻る -->
-        <a href="#" id="page-top">TOP</a>
+        <?php 
+            include_once('./parts/page_top.php');
+        ?>
 
     </div>
 
